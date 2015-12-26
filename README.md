@@ -8,4 +8,4 @@ I created this repository to illustrate Uncle Bob's SOLID principles and the Gan
 
 SOLID principles were discovered by Robert C. Martin and turned into a mnemonic acronym by Michael Feathers.  These principles, if followed, are meant to allow a programmer to create a maintanable, extensible system.
 
-[http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod](Design Princples)
+(http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
